@@ -1,0 +1,7 @@
+{
+  "eventSource": "secretsmanager.amazonaws.com",
+  "eventName": "GetSecretValue",
+  "eventType": "AwsApiCall",
+  "managementEvent": true,
+  "readOnly": true
+}
